@@ -1,0 +1,41 @@
+msgid "Sortable Tables Plugin"
+msgstr ""
+
+msgid "This plugin provides filterable and sortable tables using Bootstrap."
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "No data available."
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Search..."
+msgstr ""
+
+msgid "Show _MENU_ entries"
+msgstr ""
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Last"
+msgstr ""

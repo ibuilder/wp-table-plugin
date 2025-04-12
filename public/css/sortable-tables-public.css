@@ -1,0 +1,31 @@
+.table-sortable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-sortable th, .table-sortable td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.table-sortable th {
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+.table-sortable th:hover {
+    background-color: #ddd;
+}
+
+.table-filter {
+    margin-bottom: 20px;
+}
+
+.table-filter input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
